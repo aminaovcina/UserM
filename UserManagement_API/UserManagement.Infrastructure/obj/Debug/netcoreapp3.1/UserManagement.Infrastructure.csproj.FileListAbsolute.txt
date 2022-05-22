@@ -1,0 +1,17 @@
+C:\Users\amina.ovcina\source\repos\UserManagement_API\UserManagement.Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\amina.ovcina\source\repos\UserManagement_API\UserManagement.Infrastructure\bin\Debug\netcoreapp3.1\UserManagement.Domain.dll
+C:\Users\amina.ovcina\source\repos\UserManagement_API\UserManagement.Infrastructure\obj\Debug\netcoreapp3.1\UserManagement.Infrastructure.csprojAssemblyReference.cache
+C:\Users\amina.ovcina\source\repos\UserManagement_API\UserManagement.Infrastructure\obj\Debug\netcoreapp3.1\UserManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\amina.ovcina\source\repos\UserManagement_API\UserManagement.Infrastructure\obj\Debug\netcoreapp3.1\UserManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\amina.ovcina\source\repos\UserManagement_API\UserManagement.Infrastructure\bin\Debug\netcoreapp3.1\UserManagement.Infrastructure.deps.json
+C:\Users\amina.ovcina\source\repos\UserManagement_API\UserManagement.Infrastructure\bin\Debug\netcoreapp3.1\UserManagement.Infrastructure.runtimeconfig.json
+C:\Users\amina.ovcina\source\repos\UserManagement_API\UserManagement.Infrastructure\bin\Debug\netcoreapp3.1\UserManagement.Infrastructure.runtimeconfig.dev.json
+C:\Users\amina.ovcina\source\repos\UserManagement_API\UserManagement.Infrastructure\bin\Debug\netcoreapp3.1\UserManagement.Infrastructure.dll
+C:\Users\amina.ovcina\source\repos\UserManagement_API\UserManagement.Infrastructure\bin\Debug\netcoreapp3.1\UserManagement.Infrastructure.pdb
+C:\Users\amina.ovcina\source\repos\UserManagement_API\UserManagement.Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\amina.ovcina\source\repos\UserManagement_API\UserManagement.Infrastructure\bin\Debug\netcoreapp3.1\UserManagement.Domain.pdb
+C:\Users\amina.ovcina\source\repos\UserManagement_API\UserManagement.Infrastructure\obj\Debug\netcoreapp3.1\UserManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\amina.ovcina\source\repos\UserManagement_API\UserManagement.Infrastructure\obj\Debug\netcoreapp3.1\UserManagement.Infrastructure.csproj.CopyComplete
+C:\Users\amina.ovcina\source\repos\UserManagement_API\UserManagement.Infrastructure\obj\Debug\netcoreapp3.1\UserManagement.Infrastructure.dll
+C:\Users\amina.ovcina\source\repos\UserManagement_API\UserManagement.Infrastructure\obj\Debug\netcoreapp3.1\UserManagement.Infrastructure.pdb
+C:\Users\amina.ovcina\source\repos\UserManagement_API\UserManagement.Infrastructure\obj\Debug\netcoreapp3.1\UserManagement.Infrastructure.genruntimeconfig.cache

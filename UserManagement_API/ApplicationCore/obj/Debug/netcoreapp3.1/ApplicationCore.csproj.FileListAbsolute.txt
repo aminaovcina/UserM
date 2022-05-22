@@ -1,0 +1,15 @@
+C:\Users\amina.ovcina\source\repos\UserManagement_API\ApplicationCore\bin\Debug\netcoreapp3.1\UserManagement.Domain.dll
+C:\Users\amina.ovcina\source\repos\UserManagement_API\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\amina.ovcina\source\repos\UserManagement_API\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\amina.ovcina\source\repos\UserManagement_API\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\amina.ovcina\source\repos\UserManagement_API\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\Users\amina.ovcina\source\repos\UserManagement_API\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.json
+C:\Users\amina.ovcina\source\repos\UserManagement_API\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.runtimeconfig.dev.json
+C:\Users\amina.ovcina\source\repos\UserManagement_API\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\amina.ovcina\source\repos\UserManagement_API\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\amina.ovcina\source\repos\UserManagement_API\ApplicationCore\bin\Debug\netcoreapp3.1\UserManagement.Domain.pdb
+C:\Users\amina.ovcina\source\repos\UserManagement_API\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\amina.ovcina\source\repos\UserManagement_API\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CopyComplete
+C:\Users\amina.ovcina\source\repos\UserManagement_API\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\amina.ovcina\source\repos\UserManagement_API\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\amina.ovcina\source\repos\UserManagement_API\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.genruntimeconfig.cache
